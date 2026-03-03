@@ -70,7 +70,7 @@
 		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n85830437</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Brian Raiter</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">Brian, Raiter</meta>
+		<meta property="file-as" refines="#transcriber-1">Raiter, Brian</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">Nicholas Wiltsie</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Wiltsie, Nicholas</meta>
