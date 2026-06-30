@@ -1,0 +1,1 @@
+Italics have been removed from French words and phrases that are found in Merriam-Webster (clichés, chaise longue, etc.). The Scots word ‘foustie’ was left unitalicized to match the original text despite not appearing in Merriam-Webster. The word 'négligé' was not modernized to 'negligee' in Chapter 2 as it is part of the larger French phrase 'en négligé.'
