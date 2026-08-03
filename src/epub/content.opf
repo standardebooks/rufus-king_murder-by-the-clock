@@ -55,7 +55,7 @@
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/75500</dc:source>
 		<dc:source>https://archive.org/details/bwb_S0-CTT-590</dc:source>
-		<meta property="schema:wordCount">52893</meta>
+		<meta property="schema:wordCount">52892</meta>
 		<meta property="schema:educationalLevel">76.22</meta>
 		<meta id="vcs-repository" property="schema:workExample">schema:workExample</meta>
 		<meta property="rdf:type" refines="#vcs-repository">http://schema.org/SoftwareSourceCode</meta>
