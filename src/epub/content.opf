@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/rufus-king/murder-by-the-clock</dc:identifier>
 		<dc:date>2026-03-03T20:10:05Z</dc:date>
@@ -47,11 +47,11 @@
 		<meta property="group-position" refines="#collection-1">1</meta>
 		<meta id="collection-2" property="belongs-to-collection">Haycraft-Queen Cornerstones</meta>
 		<meta property="collection-type" refines="#collection-2">set</meta>
-		<dc:description id="description">A police lieutenant investigates a murder over the course of a single night.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>A police lieutenant investigates a murder over the course of a single night.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;When Mrs. Endicott discovers a threatening note left on her husband’s desk, she summons &lt;a href="https://standardebooks.org/collections/lieutenant-valcour"&gt;Lieutenant Valcour&lt;/a&gt; to investigate. Upon his arrival, he discovers Herbert Endicott’s lifeless body stuffed in a cupboard. They call for the family physician, who tries one last-ditch effort to revive him: a shot of epinephrine to the heart successfully brings him back from the brink of death. But Herbert Endicott is still living on borrowed time. Someone still wants him dead, and it’s up to Lieutenant Valcour to find out who—before the clock runs out.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;Murder by the Clock&lt;/i&gt; is a classic whodunit and the first of eleven novels to feature &lt;a href="https://standardebooks.org/ebooks/rufus-king"&gt;King’s&lt;/a&gt; most famous character, French-Canadian N.Y.P.D. sleuth Lieutenant Valcour. The novel was adapted into a 1931 film of the same name.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/75500</dc:source>
 		<dc:source>https://archive.org/details/bwb_S0-CTT-590</dc:source>
